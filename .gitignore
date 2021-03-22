@@ -1,6 +1,6 @@
 # local
 /ref
-/vscode
+/.vscode
 
 # dependencies
 /node_modules
